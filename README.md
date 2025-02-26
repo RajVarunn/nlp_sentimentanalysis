@@ -7,10 +7,10 @@ In today's digital age, social media platforms are very much popular amongst all
 Hate speech is generally defined as any communication that attacks or denigrates a person or group based on attributes like race, religion, ethnicity, gender, sexual orientation, or disability. Offensive language, less severe, is defined by words or phrases that can be used in a disrespectful, insulting, or hurtful manner without targeting a particular group. Both are considered as a negative form of message to the opposite party.
 
 The presence of such language leads to several significant issues:
-	•	User Safety: Hate speech and offensive language create unsafe online spaces, discouraging healthy discussions and making users feel alienated.
-	•	Platform Reputation: Platforms that fail to address these concerns risk losing user trust and facing scrutiny from regulators.
-	•	Legal and Ethical Implications: Many countries enforce strict laws against hate speech, requiring platforms to take proactive measures to filter such content.
-	•	Scalability of Moderation: Given the vast amount of content generated daily, manual moderation is neither practical nor scalable.
+1. User Safety: Hate speech and offensive language create unsafe online spaces, discouraging healthy discussions and making users feel alienated.
+2. Platform Reputation: Platforms that fail to address these concerns risk losing user trust and facing scrutiny from regulators.
+3. Legal and Ethical Implications: Many countries enforce strict laws against hate speech, requiring platforms to take proactive measures to filter such content.
+4. Scalability of Moderation: Given the vast amount of content generated daily, manual moderation is neither practical nor scalable.
 
 Our goal is to build a model which can identify such negative remarks and comments and prevent it from reaching the victim before its too late. This way we can make social media a safe environment for everyone to use and foster healthy relationships between the users.
 
