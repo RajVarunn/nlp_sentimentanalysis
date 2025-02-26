@@ -14,6 +14,12 @@ The main columns that will be essential for your analysis are: count (total numb
 
 The data collection methodology used to create this dataset involved obtaining tweets from Twitter's public API using specific search terms related to hate speech and offensive language. These tweets were then manually labeled by multiple annotators who reviewed them for classification purposes.
 
+## Problem Statement
+
+// Yet to craft
+
+## Project Flow
+
 ![telegram-cloud-photo-size-5-6194916586024977483-y](https://github.com/user-attachments/assets/f4da7ca8-fb57-42d9-aa39-b681c69bbbe4)
 
 
