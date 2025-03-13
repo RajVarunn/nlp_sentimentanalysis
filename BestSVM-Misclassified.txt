@@ -1,0 +1,372 @@
+Tweet: ghetto as mofos
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: everybody still facebook ghetto pregnant idc
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: lol kid act redneck oviedo
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: crazy female cheat wrong every type hoe guy cheat justific
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: text u nigglet
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: let white boy ghetto
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: ohh mr tough cause live retard city think cool people like shovel snow broke bum
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: haha tanaka go yankee sorry bum
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: raid nicki wig closet summer bad gal wan na fun bitch nerve smh
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: remember bro show people
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: ayo twat boy get ta new phone give yo jack
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: ppl talk bad ghetto hood kid grow nigga funnnnnnn
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: nicca say ballin ask em title n deed not wher clothes n key
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: masturbate lingerie catalog spite dare throw trash get look
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: killin tekken lie trash
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: money hoe clothes
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: mommy say pussy cat inside dawgs house
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: ha ha ha good fat dyke
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: come nude trash get big titty
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: search gay redneck episode play
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: know not big nfl sick hearing black yellow shit lol bandwagon fan hell go packer
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: happen old wigga gonorrhea one
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: pure trash
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: like trailer trash chick would name cat
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: trash tho edgewood basketball court
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: need chat dat nicca lol
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: dr suess make word rhyme nigga trash hat book kid
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: smack peckerwood judge pit
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: feel like year since see ya queer lolol
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: frustration bitch
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: inform crunk dead ho lol okay sure
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: aye everyone buy bombass brownie tomorrow wigga contain marijuana b
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: surprised could read slit eye
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: would follow george washington mean white trash
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: tonight n word cracker offensive probably one spell fuck hack
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: get ta red head afrotino asian albino autistic branch davidian hermaphrodite avenger
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: citizen say maria spic
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: lmaoooo aye people person know lil rico get hoe hahaha
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: green bowl high spliff high j high blunt high moke high moke coffee high
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: wan na go workout come back home lay bed jerk kill two bird one stone
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: one nigga past told one thing never forget one man trash another man treasure
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: stupid redneck animal husbandry not mean get hitch blue tick hound misty
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: say twitter pic look like guido love pattyfuckingboges
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: ehh tough yeah lol jk course niglet
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: love dez right trash right weeden others open
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: nahh whatever spook spic still like good day
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: retard actually love job really weird passion
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: obama id call press conference amp slit joe bidens neck live tv show cracker mean business
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: learn type ya hillbilly
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: guess want ghetto dad poor not moral standard grandfather poor great man tho
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: real tear outfit trash dyke outfit get weakkkkkkkk
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: next time u go call darky nicca call dat coon jungle bunny boondocks p
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: feel utterly retard thanks big brother
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: shot another monkey lmaooooooooooo
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: two ringless fag barkley amp reggie talk nonsense entire game
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: like dat magazine da black folk look like dey one chromeasome away da ape
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: sound like prenup gon na cash not apparently ghetto credit magine
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: black yellow not go win year wrong answer tiger wood
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: nick young say close worth money watch sneaker clothes steal house last nig
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: everyone else parent use refer power puff girl powder puff girl mine exceptionally retard
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: photo deafreaperventus wayward son fall angel murderous crow gay intensifies say
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: happens black pack beat whitey make national news
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: monkey amp cigarette dead serious
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: hmu talmbout match pull niccas wit ya
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: ariza snake coward least cripple like hero roach lmaoo
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: ratchet white trash
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: flappy bird make want smash fuckin screen
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: fly banging window call retard thought umm talki
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: ugly af stick one rt new avi trash nah
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: principle ghetto elementary school doubt finger cross
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: sometime wish color
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: yep messier dangerous environmentally unfriendly retard new spout
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: bitch thincc dress cod
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: pitch chip slide ur dick tight clam love mywife
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: would u let ur girl even go party without u thats retard lol u must want get cheat
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: smash werewolf chick thought related felt guilty later discover know ho
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: like ghetto female
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: one man trash another man wife fact
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: u act like hoe broke not wrong think u hoe along
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: maybe reluctantly do mean discrimination law state culturally queer people state
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: go blame black man since always blame whitey equal opportunity hater
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: bad jury duty confirmation get serve general public retard
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: damn thot block ur fuzzy butt
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: order real nicca gots real nicca
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: stupid teabagger restaurant make customer pay minimum wage fee
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: nigga gim me mixtape trash yeet fatality
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: pussy science donaire via rachel spell error
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: band white trash white trash would buy album
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: hunned hunneds nicca letsgetit
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: word make u hoe okay sex first date long feel mutual
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: fucc nicca
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: welcome movement anyone get even minor publicity queer fed jew well accord internet
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: lol like album double album trash son smh
+Actual Class: 0
+Predicted Class: 1
+

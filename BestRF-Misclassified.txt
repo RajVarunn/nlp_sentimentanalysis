@@ -1,0 +1,320 @@
+Tweet: ghetto ass as mofos
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: might not reaction everyone said say brand trash yet sh
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: pussy science donaire via rachel spelling spell error
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: got get ta like n twins twin chug everyone
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: damn kinda trash man many actually threesome honestly
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: feel utterly retarded retard thanks big brother
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: text u nigglet
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: let white boy ghetto
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: ohh mr tough cause live retarded retard city thinks think cool people like shoveling shovel snow broke bum
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: haha private industry birthday needed need celebrated celebrate bday past month wait see nig lol
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: care tho cracker
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: got get uncle marriage dude got get hips hip like big momma swear lil kids kid mock walk even know
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: one cares care nigger
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: imma get home around problem coon leaving leave bar drank shots shot crown royal think still drive
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: got get flappy bird holy shit
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: dyke almost came come send lt lt lt lt
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: killin tekken lies lie trash
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: apparently im honky pfft like bad thing
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: search gay redneck episode play
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: feel alone miss wife much hate white trash raped rap killed kill daughters daughter
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: smashed smash werewolf chick thought related felt guilty later discovered discover know ho
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: pure trash
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: like trailer trash chick would name cat
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: trash tho edgewood basketball court
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: early bitch driving drive denton omg move already
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: scally lad would get
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: apartheid pedestrian check show freedom papers paper darkies darky
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: da flow temple today fo nuttin dat jew wit funky hair tell subhuman tell mo human den monkey
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: kayci greet saying say hey cunt like makes make lol
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: talentless skag wardrobe malfunction
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: darkie
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: den enjoy da nite wit colored color man weeks week lets let needs need ta bring da magnums magnum
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: goodnight stuck twats twat not laughing laugh tweets tweet
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: every slant losangeles deported deport scum right chinatown bulldozed bulldoze
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: citizen said say maria spic
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: wan na go workout come back home lay bed jerk kill two birds bird one stone
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: welcome movement anyone gets get even minor publicity queer fed jew well according accord internet
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: not weird faggot
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: neighbors neighbor hate cuz smoke weed blast ghetto music room
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: run ball offensive coordinator retarded retard
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: bro ken bec use side beli hoe ved
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: coon meat made make ill even type racist much
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: muslims muslim military honour whatsoever sub human savages savage slaughter unarmed men women woman amp children child
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: nicca dm talkn bout follow instagram lame nicca longer follow twitter wheretheydothatat
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: got get ta bad red bone look something like ashanti
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: shot another monkey lmaooooooooooo
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: two ringless fags fag barkley amp reggie talking talk nonsense entire game
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: sounds sound like prenup gon na cash not apparently ghetto credit magine
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: wealth insulate called call nigger still improve empirical quality life outcomes outcome phenomenally
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: african colored color car push niggerous whips whip
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: sister said say step mom cunt lt love sister
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: day ex told sober cheated cheat day eliminated eliminate colored color skinny jeans jean wardrobe
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: ariza snake coward least cripple like hero roach lmaoo
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: amp th guinea pig haunt
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: dis nicca still rapping rap
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: flappy bird makes make want smash fuckin screen
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: girlfriends girlfriend like want
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: many filthy wetback half breed spic savages savage live losangeles none right
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: ugly af stick one rt new avi trash nah
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: nashville atlanta houston many trash drivers driver
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: principle ghetto elementary school doubt fingers finger crossed cross
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: stop oppressing oppress heard free speech stop shoving shove lifestyle throat st amendment tcot teabaggers
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: yep messier dangerous environmentally unfriendly retarded retard new spouts spout
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: monkey see monkey narnfraud swiftee amp narnfraud pathetic disturbed pair thugs thug mngop proud stribpol
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: worse bad jury duty confirmation get serving serve general public retarded retard
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: sang nazi beaner
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: lets let hangout monday nigs
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: cheater cheater pumpkin eater find good white trash hoe trashy sloots
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: let niccas feel booty lmaort take hood good
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: call trash
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: porch monkey life
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: stupid white people making make posts post relevant life stupid cousintoucher honkie whitetrash blonde
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: like honestly embarrassed embarrass around someone look trash
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: trash guess got get tired tire chalmers trash starting start chalmers lose job norris cole lmfaoooo
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: got get feelin like trappin dead got get ready call guala salute da truth seenitall seenitalltheautobiography
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: yeswedid start building windturbines fuckin big kill whole flock birds bird one go gt
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: like rashad like found ghetto truth new new
+Actual Class: 0
+Predicted Class: 1
+
+Tweet: dumb beaner
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: word make u hoe okay sex first date long feeling feel mutual
+Actual Class: 1
+Predicted Class: 0
+
+Tweet: lol liked like album double album trash son smh
+Actual Class: 0
+Predicted Class: 1
+
