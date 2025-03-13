@@ -24,7 +24,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,could never bring fw bitch nigga wears wear everybody else shit like um broke amp bummy ya fuccing boof,-0.2091
 0,negative,bitches bitch tweeting tweet last night gt gt like something special except hoes hoe,-0.0772
 0,negative,getting get bitches bitch whole life getting get money whole life,-0.8271
-0,negative,sitting sit bar work watching watch walking walk dead fucking fuck wetbacks wetback decide come amp turn spic music jesus christ,-0.8316
+0,negative,sitting sit bar work watching watch walking walk dead fucking fuck wetbacks wetback decide come amp turn spic music jesus christ,-0.8439
 0,negative,basically foams foam ugly dem bitches bitch look big long floppy nh,-0.8316
 0,negative,nobody wit im alone shit dont think im actin funny im zone bitch,-0.7579
 0,negative,fuck bad bitch id rather good girl freak times time,-0.8957
@@ -44,7 +44,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,bro hoe live,0.0
 0,negative,ion care none bitches bitch,0.8562
 0,negative,ion care niggas nigga date b bitch make happy cool,0.4588
-0,negative,every bad bitch nigga tired tire fucking fuck,-0.9287
+0,negative,every bad bitch nigga tired tire fucking fuck,-0.9324
 0,negative,hoes hoe deserve respect ask,0.4767
 0,negative,im talking talk pucture pussy cat nit twit,0.0
 0,negative,lame ass as nigga still cuffin hoes hoe bitch got get bitch er,-0.9313
@@ -77,7 +77,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,thats never call bitch shit,0.7181
 0,negative,hoes hoe everybody hoes hoe lol go bitch bet u get easy,0.2263
 0,negative,swear n zee da niccas aint got get da update yet lt right wit cha bruh,-0.0516
-0,negative,lbs lb aint thick bitch fucking fuck warthog,-0.1098
+0,negative,lbs lb aint thick bitch fucking fuck warthog,-0.183
 0,negative,niggas nigga actin like bitches bitch,-0.8225
 0,negative,may bitch least keep real,-0.5859
 0,negative,call girl bitch get offended offend u put bad front swear queen,-0.8934
@@ -129,12 +129,12 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,trash talking talk athlete vs v violent congressman real thug via,-0.5994
 0,negative,even lift pussy,0.0
 0,negative,mum agrees ur wee moody cunt cani deal fact right dadsbeingsilly,-0.5994
-0,negative,little fucking fuck gook smells smell like shit thinking think motherfuckin boss bos fuck,-0.8197
+0,negative,little fucking fuck gook smells smell like shit thinking think motherfuckin boss bos fuck,-0.8454
 0,negative,move dat muscle hoe tell watchu mad foe,-0.7269
 0,negative,tucked yo bitch u ignorant ass as mother fucker,-0.9287
 0,negative,bet good pussy,0.4404
 0,negative,pop nigguh sound like crisco,0.3612
-0,negative,nigga u called call bitch last time check im fucking fuck nigga get ill show u real fight like,-0.8807
+0,negative,nigga u called call bitch last time check im fucking fuck nigga get ill show u real fight like,-0.8883
 0,negative,bitch hangs hang one time,-0.5859
 0,negative,better well called call kid pussy,0.6124
 0,negative,know ratchet bitches bitch rep north side,-0.8271
@@ -155,7 +155,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,occupyslu ima fuck white bitch slap choke said say livestream interview w fe,-0.8807
 0,negative,im car jamming taylor swift side bitch,-0.4588
 0,negative,wow putting put whole manifesto using use twitlonger canadian hey hoser many adopt,0.6705
-0,negative,fucking fuck hate ignorant ass as bitches bitch,-0.9661
+0,negative,fucking fuck hate ignorant ass as bitches bitch,-0.9696
 0,negative,fat bitches bitch flat booty hoes hoe today wackkkkk,-0.8271
 0,negative,got get red ass as bitch wid red ass as pussayyy,-0.8957
 0,negative,jackie old bamma ass as bitch,-0.8074
@@ -178,7 +178,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,gimmmmmie hoodrat bitch,-0.5859
 0,negative,let see goes go lol using use coupon haha kik dm text ya tweet hoe lolololol,0.7003
 0,negative,teachers teacher always assign homework like life bitch got get ta go home tweet,-0.3182
-0,negative,terms term like honkey cracker peckerwood stereotypes stereotype white people fucking fuck kids kid sisters sister racist sweet,-0.6486
+0,negative,terms term like honkey cracker peckerwood stereotypes stereotype white people fucking fuck kids kid sisters sister racist sweet,-0.6801
 0,negative,tell bitch nigga,-0.5859
 0,negative,hoe man wants want godly,0.0772
 0,negative,dudes dude hoe laughin pics pic,0.0
@@ -286,7 +286,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,tired tire corny vines vine ugly faces face stupid voices voice nigga sexy,-0.7351
 0,negative,niggas nigga bitches bitch,-0.8779
 0,negative,u faggot u heat leftover pizza,-0.6597
-0,negative,niggas nigga cheat loyal beautiful women woman fucking fuck trash,-0.2263
+0,negative,niggas nigga cheat loyal beautiful women woman fucking fuck trash,-0.2944
 0,negative,example even say cooler bein cool ice cold without somebody relating relate phi bitch,-0.3612
 0,negative,fuck rebuild tranny driving drive like last years year till finally goes go,-0.25
 0,negative,hoes hoe dick sweg learned learn best,0.2263
@@ -301,13 +301,13 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,side hoes hoe get love thotology,0.6369
 0,negative,mother nature drunk bitch knows know party,-0.5423
 0,negative,yall side hoes hoe gone go look valentines valentine day lol,0.4215
-0,negative,sorry care bitch nigga fucking fuck w,-0.6597
+0,negative,sorry care bitch nigga fucking fuck w,-0.6901
 0,negative,aint nun cut dat bitch,-0.4563
 0,negative,niggah think gon come bestf fuck,-0.5423
 0,negative,aw omg show made make cry pussy man really,-0.4767
 0,negative,ruley bitch ry,-0.5859
 0,negative,fuck bad bitches bitch,-0.9403
-0,negative,dumb bitches bitch fucking fuck,-0.9382
+0,negative,dumb bitches bitch fucking fuck,-0.9412
 0,negative,man went go real quick hoe fuck niggas nigga thought,-0.7096
 0,negative,baltimore damn ghetto,-0.4019
 0,negative,shirley temple bad bitch age well,-0.7351
@@ -375,8 +375,8 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,since girl like argue sent bitch law school,-0.5719
 0,negative,gon na rock cock gon na jam clam,-0.1531
 0,negative,ever asked ask patience patience amp pussy mostly patience,0.0
-0,negative,keshawn martin soooooooooo fucking fuck trash,-0.5423
-0,negative,fucking fuck hoes hoe nigga waka hate man,-0.802
+0,negative,keshawn martin soooooooooo fucking fuck trash,-0.5849
+0,negative,fucking fuck hoes hoe nigga waka hate man,-0.8173
 0,negative,yeah bitch taste good fucker,-0.6124
 0,negative,see hoes hoe,0.0
 0,negative,belle bitch,-0.5859
@@ -475,11 +475,11 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,wonder females female ever sit around think bout yall hoes hoe unfaithful yall really,0.0
 0,negative,boss bos ass as bitch song got get basics basic thinking think models model lmao knowyourplace,-0.5267
 0,negative,playas fuck lmao like trash forreal crazy one see,0.128
-0,negative,never understand people fake entire relationship even fake hello bitch fucking fuck,-0.4926
+0,negative,never understand people fake entire relationship even fake hello bitch fucking fuck,-0.54
 0,negative,pussy lie pussy,0.0
 0,negative,dumb ass as hoe,-0.7783
 0,negative,messi thinking think ronaldo bitch even make group ahaaaaa,-0.5859
-0,negative,teach really fucking fuck bitches bitch brah,-0.9143
+0,negative,teach really fucking fuck bitches bitch brah,-0.9271
 0,negative,nigga bitch scaring scar pass pas blunt,-0.7717
 0,negative,ion got get type bad bitches bitch thing like,-0.8658
 0,negative,tweet som n laughs laugh amp bitch wan na spoil fun getting get serious,0.7184
@@ -506,7 +506,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,fuck u dumb bitch matter fact go get nigga hoe cuz u not going go shit,-0.8213
 0,negative,fuck islamic state kill cunts cunt,-0.946
 0,negative,kind hoe nae ok hoe anyways,0.6808
-0,negative,mad cuz fucking fuck ya enemy wins win cuz letting let shit fuck control hoes hoe stress,-0.9118
+0,negative,mad cuz fucking fuck ya enemy wins win cuz letting let shit fuck control hoes hoe stress,-0.9253
 0,negative,hate white trash try act like equal makes make much clearer white trash,-0.296
 0,negative,fuck cops cop fuck tarah bitch elongated elongate nose shaped shape like horses horse dick,-0.9118
 0,negative,eager hoe even read twitpic selfie wearing wear leotard,0.3612
@@ -519,7 +519,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,convinced convince bitches bitch get pregnant purposely birth control amp plan b pills pill effective,-0.2263
 0,negative,ima hypocrite say dont fuck hoes hoe days day later let hoe play dick mcdonald drive thru love fries fry,0.7311
 0,negative,not us u bitches bitch,0.7366
-0,negative,ok right wing teabaggers gun nuts nut like harris hell even fucking fuck cops cop,-0.8442
+0,negative,ok right wing teabaggers gun nuts nut like harris hell even fucking fuck cops cop,-0.8553
 0,negative,nations nation know rather real niggers nigger amp bad bitches bitch,-0.9477
 0,negative,not saying say slut favorite shade lipstick pussy,0.7246
 0,negative,top lies lie girls girl tell twitter dms dm work twitter unfollowing people not hoe,-0.25
@@ -528,13 +528,13 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,ewww said say last sunday last sunday read nigs,0.0
 0,negative,lmfao thats dead hoes hoe got get ta pay,-0.296
 0,negative,end day call yo dumb ass as monkey picka nanny hoe u luv white devils devil,-0.9423
-0,negative,spent whole fucking fuck life apologizing apologize not enough cut nip fuck booze drug inadequacy,-0.831
+0,negative,spent whole fucking fuck life apologizing apologize not enough cut nip fuck booze drug inadequacy,-0.8637
 0,negative,wealth insulate called call nigger still improve empirical quality life outcomes outcome phenomenally,0.2023
 0,negative,big ass as smile eyes eye chink,-0.25
-0,negative,god cant fucking fuck stand waiters waiter bitch people not tipping tip get real fucking fuck job,0.4588
+0,negative,god cant fucking fuck stand waiters waiter bitch people not tipping tip get real fucking fuck job,0.532
 0,negative,bitches bitch make happy material objects object make bitches bitch happy iphone,-0.8402
 0,negative,sister said say step mom cunt lt love sister,0.25
-0,negative,twitter not source news broadcast fucking fuck retards retard nbc abc cnn fox etc keeping keep quiet,-0.7845
+0,negative,twitter not source news broadcast fucking fuck retards retard nbc abc cnn fox etc keeping keep quiet,-0.8155
 0,negative,not funny u faggot,0.2755
 0,negative,bitch tried try give dick hickey,-0.7964
 0,negative,hahahahaa fuckin crow looking look bitch,-0.5859
@@ -562,7 +562,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,n hit butta slide end bitch,-0.5859
 0,negative,irrelevant people talk much shit like fuck bitch,-0.8555
 0,negative,let not forget kim fight kill hoes hoe,-0.431
-0,negative,ur fucking fuck half breed dog stop acting act,-0.6908
+0,negative,ur fucking fuck half breed dog stop acting act,-0.7178
 0,negative,bitch come handy times time like,-0.3182
 0,negative,dealing deal bitch ass as annoying annoy,-0.9169
 0,negative,long finger dike hoes hoe pulling pull gloves glove instead winking wink bitches bitch trying try suck,-0.891
@@ -574,20 +574,20 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,instagram song bout postin pictures picture hoes hoe not allowed allow post pictures picture posting post none,-0.1695
 0,negative,yo homegirls homegirl sayin bum bitch ooooostopflexingforigandtwitter,-0.5859
 0,negative,oso told dreads dread get longer gone go pop fuck niggas nigga bitches bitch lmao,-0.9337
-0,negative,bitch bitch mom bitch bitch dad bitch fucking fuck bitch,-0.9805
+0,negative,bitch bitch mom bitch bitch dad bitch fucking fuck bitch,-0.981
 0,negative,da flow temple today fo nuttin dat jew wit funky hair tell subhuman tell mo human den monkey,-0.1027
 0,negative,naughty mature av model sweet pussy spread huge dick,0.5859
 0,negative,energy hoes hoe,0.2732
 0,negative,let show pussy work brian mcknight accolades accolade music everything everything,0.0
 0,negative,fuck bitch shove work,-0.8074
-0,negative,look like fucking fuck shrek bitch,-0.7003
+0,negative,look like fucking fuck shrek bitch,-0.7474
 0,negative,woohoo new black kill cracker babies baby panthers panther rescue racist trash thugs thug ferguson fergusonriot,-0.4767
 0,negative,see nudes nude must beat pussy salute,0.0
 0,negative,ol bitch ass as look like got get bobble head,-0.7003
 0,negative,ha well iguess make hoes hoe loyal bro theyll never loyal hoes hoe nig,0.8658
 0,negative,soul departed depart train soul music hunger bitches bitch money fame,-0.7783
 0,negative,go jamaica n attend wild dancehall events event jus five star frog splash bitch tree n get wshh,-0.5859
-0,negative,hurt nigga crushing crush fucking fuck bottle girl hoes hoe,-0.875
+0,negative,hurt nigga crushing crush fucking fuck bottle girl hoes hoe,-0.8832
 0,negative,shut fuck faggot ass as knicks cock sucker opinion irrelevant fag,-0.9612
 0,negative,say got get ta new bitch,-0.5859
 0,negative,bitch ok,-0.3818
@@ -595,7 +595,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,fight shit say free lunch must game fucked fuck cause colored color like rest,-0.8519
 0,negative,bitch could care less benghazi victims victim,-0.5358
 0,negative,oh little bitch tryna hit fair tho today sometime week shit might fun drunk,-0.6003
-0,negative,hoes hoe fucking fuck want seem like hoe got get ta hit em low,-0.4215
+0,negative,hoes hoe fucking fuck want seem like hoe got get ta hit em low,-0.4243
 0,negative,damn rico ass as hit hoe point,-0.7351
 0,negative,wonderful meet dude not bitch ass as nigga days day,0.8632
 0,negative,chief keef changed change rap game said say bitch cooler cooler,-0.5859
@@ -620,8 +620,8 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,see fuck bitches bitch fuck bitches bitch also,-0.9732
 0,negative,dick sad life hair mess family nuts nut neighbor asshole bestfriend pussy amp owner beats beat,-0.8807
 0,negative,fuck bad bitches bitch stiff,-0.9403
-0,negative,damn babe sike forever fucking fuck basic bitches bitch,-0.9313
-0,negative,fucking fuck faggots faggot thirsty eachother probably fuck behind redemption,-0.9485
+0,negative,damn babe sike forever fucking fuck basic bitches bitch,-0.9377
+0,negative,fucking fuck faggots faggot thirsty eachother probably fuck behind redemption,-0.9567
 0,negative,girls girl say like ohh ugly like bitch fishing compliments compliment like deep sea diving dive fuck,0.25
 0,negative,say fuccn name hoe,0.0
 0,negative,bitch u thot oh fake ass as nigga box hoe u not bout nothing,-0.886
@@ -644,7 +644,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,uh long till apple comes come newest new incarnation iphone ready two years year bitch still goes go,-0.3182
 0,negative,get cunt,-0.4939
 0,negative,scary bitches bitch twitter never nigga crush always oomf shit,-0.9332
-0,negative,u call dumb u speak shit u know nothing yea look fucking fuck talking talk retard,-0.93
+0,negative,u call dumb u speak shit u know nothing yea look fucking fuck talking talk retard,-0.9336
 0,negative,girls girl got get job college set better well future get mad nigga leave cause got get pussy,0.1531
 0,negative,got get type bad bitches bitch thing iike,-0.9042
 0,negative,porn android iphone ipad sex xxx bigtits cute preggie slut big tits tit plays play swollen pussy,0.1779
@@ -660,13 +660,13 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,honesty ask ugly hoe,-0.0258
 0,negative,know fag,-0.4767
 0,negative,mmmm sure dont seem like lmfao yess yes ill bitch done do,-0.7622
-0,negative,cody always calling call people nigger fucking fuck spaz,-0.8316
+0,negative,cody always calling call people nigger fucking fuck spaz,-0.8439
 0,negative,used use dress like cop oh really yeah right mad pussy really yes never forget,0.1085
 0,negative,fuck boi fag,-0.765
 0,negative,cheater cheater pumpkin eater find good white trash hoe trashy sloots,-0.6249
 0,negative,literally retarded retard dropped drop head,-0.8481
 0,negative,boats boat hoes hoe,0.0
-0,negative,sam guy fucking fuck pussy,-0.5423
+0,negative,sam guy fucking fuck pussy,-0.5849
 0,negative,fuck michelle obama monkey doesnt belong white house,-0.5423
 0,negative,swear nothing worse bad bad bitch lost lose,-0.1891
 0,negative,want baby im young retarded retard,-0.7783
@@ -724,7 +724,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,way near life bitch lmao,0.0258
 0,negative,quiet girls girl hoes hoe watch,0.0
 0,negative,katy clear lake hoes hoe,0.3818
-0,negative,spoiled spoil fucking fuck bitches bitch get whatever want need step evaluate lives life,-0.8979
+0,negative,spoiled spoil fucking fuck bitches bitch get whatever want need step evaluate lives life,-0.9142
 0,negative,u lame bitch get fuck gay shit,-0.9287
 0,negative,guys guy best love nig nogs nog indyfam,0.8555
 0,negative,sum bitch looks look good man pick one,-0.2263
@@ -774,7 +774,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,went go ya bitch house not virgin anymore,-0.5859
 0,negative,boats boat hoes hoe please thanks mom,0.6369
 0,negative,matter hard try rude mf keep talking talk like bitch know,-0.6808
-0,negative,fucking fuck fag said say,-0.765
+0,negative,fucking fuck fag said say,-0.8004
 0,negative,haha say damn called call bad bitch mean mean bitch lmfao,-0.8074
 0,negative,heard guala shit featuring feature chase da doe r e boy big joseph chase rinche soundcloud,-0.5574
 0,negative,agree fellow cracker,0.3612
@@ -783,7 +783,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,ha ha ha good fat dyke,0.8442
 0,negative,going go show bitches bitch done do,-0.8271
 0,negative,stunt hoes hoe like,0.3612
-0,negative,bitch end fucking fuck life fuckboy,-0.8074
+0,negative,bitch end fucking fuck life fuckboy,-0.8221
 0,negative,monday like saturday bitch turnup,-0.3182
 0,negative,foot lbs lb buy truck know get em cause scrawny country pussies pussy,0.0
 0,negative,already know trash tatted tat list things thing want nigga,0.0772
@@ -794,7 +794,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,fuck skinny bitches bitch neverforget,-0.9042
 0,negative,guarantee bitches bitch follow,-0.7717
 0,negative,makes make pussy making make stupid internet threats threat child idk probably deserved deserve,-0.875
-0,negative,fucking fuck real retard holy fuck not read tweets tweet fucktard,-0.9382
+0,negative,fucking fuck real retard holy fuck not read tweets tweet fucktard,-0.9464
 0,negative,money first woman second hoes hoe last,0.0
 0,negative,miss jihadist bitches bitch crosshairs ahhh good ol days day,-0.7506
 0,negative,still see niggers nigger see white hoes hoe everrrrrr,-0.6486
@@ -886,7 +886,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,pepsi cola ladies lady pussy taste like,0.3612
 0,negative,zach huggins tell yo bitch leave tf alone,-0.7184
 0,negative,im slay bitch im wearin bandos armor cause im rich got get slayer helm whip droppies,-0.0516
-0,negative,word beat fucking fuck faggots faggot pls,-0.9153
+0,negative,word beat fucking fuck faggots faggot pls,-0.9278
 0,negative,every zoo petting pet zoo not pussy,0.0
 0,negative,bitch tweets tweet point minutes minute,-0.5859
 0,negative,nah go talk ur bitch since yo crush n shit,-0.8555
@@ -926,7 +926,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,yo bitch cho name bitch wan na fuck ya bitch jacey things thing says say doe bff baby,-0.9001
 0,negative,deletin emojis nigga bitch contact name cos co mean shit anymore,-0.8126
 0,negative,dick called call eggo bitches bitch never want leggo eggo,-0.9047
-0,negative,guys guy hoes hoe days day lmao fucking fuck indirect cause put blast subbin,0.1027
+0,negative,guys guy hoes hoe days day lmao fucking fuck indirect cause put blast subbin,0.0276
 0,negative,col sanders sander part sons son bitches bitch dragged drag extended extend watered water goddamn mad,-0.9371
 0,negative,viet goddamn nam happened happen go get beer bitch,-0.7845
 0,negative,hate one random tear comes come blinked blink like nigga stop bitch,-0.802
@@ -995,8 +995,8 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,made make bitch,-0.5859
 0,negative,niggas nigga cry get hit high cry get hit low nfl full pussies pussy,-0.8658
 0,negative,bitches bitch talk bf,-0.8271
-0,negative,fucking fuck slutty beaner,-0.7783
-0,negative,bitches bitch like come not fucking fuck happened happen amp shaved shave bitch knew wassup,-0.7992
+0,negative,fucking fuck slutty beaner,-0.8111
+0,negative,bitches bitch like come not fucking fuck happened happen amp shaved shave bitch knew wassup,-0.7866
 0,negative,pussy ass as nigga know nigga,-0.5423
 0,negative,text bitch,-0.5859
 0,negative,ya titties titty lil bitch,-0.5859
@@ -1070,7 +1070,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,follow back bitch,-0.5859
 0,negative,stafford pussy,0.0
 0,negative,hard bigger big man person cunt,-0.5574
-0,negative,think niggas nigga end kids kid fucking fuck ugly bitches bitch,-0.9509
+0,negative,think niggas nigga end kids kid fucking fuck ugly bitches bitch,-0.9567
 0,negative,flowing flow wells well varsity soccer tomorrow yall playing play ironwood kick asses ass pretty sure fag playing play,0.8126
 0,negative,makeup save hoes hoe,0.4939
 0,negative,kick dem fucc niccas da spot,0.0
@@ -1079,9 +1079,9 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,man robin thicke black tv trying try get pussy back,0.0
 0,negative,word r dms dm twitter crush bitch shit man amp enter dm bruh,-0.8402
 0,negative,close eyes eye let world paint thousand pictures picture one good girl worth thousand bitches bitch,-0.5994
-0,negative,fucking fuck gay blacklisted blacklist hoe holding hold tehgodclan anyway,-0.5423
+0,negative,fucking fuck gay blacklisted blacklist hoe holding hold tehgodclan anyway,-0.5849
 0,negative,freshmanadvice rolling roll backpacks backpack get bitches bitch,-0.8271
-0,negative,yo bitch fucking fuck bcuz money chances chance nigga money fuck,-0.8402
+0,negative,yo bitch fucking fuck bcuz money chances chance nigga money fuck,-0.862
 0,negative,go class last minutes minute hoe,0.0
 0,negative,love somebody cheat hoes hoe certain shit cause limits limit type shit,-0.5994
 0,negative,smoke good weed bad bitch,-0.6597
@@ -1110,7 +1110,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,not one bitch texting right followers follower inch rims rim inch tv straight ass as teeth text messages message ima kill,-0.6402
 0,negative,fuckin moron snortin oxycontin wearin cotton oxymoron like buff faggots faggot playin sissy dikes dike,-0.8957
 0,negative,spelled spell faggots faggot e cool lol,-0.6705
-0,negative,bitch even know fucking fuck real niggas nigga damn sure one,-0.8779
+0,negative,bitch even know fucking fuck real niggas nigga damn sure one,-0.8923
 0,negative,shitty fuzzy hat made make sure getting get laid lmfao,0.296
 0,negative,need bitches bitch,-0.8271
 0,negative,america white trash americans american,0.0
@@ -1119,7 +1119,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,bitch got get zero kills kill yet got get legendary enngram absolute fuck,-0.9477
 0,negative,gon na start web md site three diagnosis quit pussy lay drugs drug call,0.0
 0,negative,fuuuck happened happen nothin worse bad bad bitch lost lose,-0.9578
-0,negative,wtf dude fucking fuck retarded retard,-0.9371
+0,negative,wtf dude fucking fuck retarded retard,-0.9454
 0,negative,chick got get man edges edge niggas nigga got get hoes hoe diploma damn,-0.6249
 0,negative,pudding right pussy,0.0
 0,negative,kinda miss tremper use threw dat bitch lol never class lmao,-0.6655
@@ -1137,7 +1137,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,pillow talking talk yo hoe hating hat nigga fuck around loose ya hoe like,-0.765
 0,negative,arod like ugly bitches bitch like fuck,-0.8885
 0,negative,called call bitch prolly hate called call bad bitch prolly thank,-0.9231
-0,negative,nun fucking fuck bitches bitch getting get money,-0.9042
+0,negative,nun fucking fuck bitches bitch getting get money,-0.9191
 0,negative,lol fuck lil bitches bitch shit peep wassup w tho,-0.9186
 0,negative,hospital since tryna stay awake hrs hr sip usse party rest coons coon,0.4019
 0,negative,care bitches bitch say kesha awesome,-0.1027
@@ -1177,7 +1177,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,set hoe fire,-0.34
 0,negative,fuck talkin like guy asks number says say ugly bitch say,-0.8316
 0,negative,make bitch sits couch turns turn ice age movie asks us u hungry like arent,-0.3182
-0,negative,fucking fuck nigger,-0.8316
+0,negative,fucking fuck nigger,-0.8545
 0,negative,everyone liked like evil pussy fuck compassion,-0.1531
 0,negative,hoe lmfao smuts smut lmao,0.8126
 0,negative,vote right complain said say vote son bitch,-0.743
@@ -1214,7 +1214,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,lmao hella skinny bitches bitch like,-0.4295
 0,negative,post picture pussy get likes like,0.6486
 0,negative,okay minivan run red light sure nail appointment important life bitch,0.0516
-0,negative,vaginal walls wall inflammed fuck nigga fucking fuck bitches bitch cut em complete treatment,-0.9501
+0,negative,vaginal walls wall inflammed fuck nigga fucking fuck bitches bitch cut em complete treatment,-0.9541
 0,negative,dyke get pregnant mistake gt gt gt gt gt,0.7269
 0,negative,karma bitch,-0.5859
 0,negative,type pipe put rhianna sleep excuse bitch mind week,-0.5423
@@ -1247,7 +1247,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,fuck tweeting tweet anyone going go answer niggers nigger reply pm niggerfag niggerfag niggerfag,-0.8316
 0,negative,night bitches bitch,-0.8271
 0,negative,bring lat name hoes hoe know kids kid need know,0.0
-0,negative,leave ronson make ass as laugh heated heat fucking fuck bitch,-0.8126
+0,negative,leave ronson make ass as laugh heated heat fucking fuck bitch,-0.839
 0,negative,money bitch,-0.5859
 0,negative,mcm bc tomorrow months month fuck everyone said say last proved prove bitches bitch wrong,-0.936
 0,negative,aw man bitch go hard put like oh lord panties panty baby bra,-0.4019
@@ -1260,7 +1260,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,fucc cash u not hoe going go respect u poccets broke nip,0.0772
 0,negative,curve im going go assume pussy trash favor,0.4019
 0,negative,know name not story bio know hoe,0.0
-0,negative,oh goodness hate chinese people fucking fuck zipperheads,-0.6369
+0,negative,oh goodness hate chinese people fucking fuck zipperheads,-0.6697
 0,negative,bitch want numba got get ta fuck bruda,-0.7906
 0,negative,damn go ova ovum dea n get ass as blown kno wat look like bitch play call duty frequently,-0.7269
 0,negative,fuck yo bitch ass as,-0.8957
@@ -1384,7 +1384,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,nah son ca go half girl bitches bitch wanting want spend fake hair,-0.8979
 0,negative,well feel like bitch,-0.0516
 0,negative,bitch says say got get school fuck bullshit,-0.9022
-0,negative,fucking fuck retarded retard say single thing house without blowback,-0.891
+0,negative,fucking fuck retarded retard say single thing house without blowback,-0.9088
 0,negative,poor whitey,-0.4767
 0,negative,amp ima eat pussy filthy,0.0
 0,negative,hit wit shottie bitch bet ya body flip,-0.5859
@@ -1422,8 +1422,8 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,elizbian bitch likes like women woman,0.128
 0,negative,tell beautiful like tell every bitch come sir dobetter,0.3818
 0,negative,lmaooo nigga said say hol dyke background,0.0
-0,negative,niggas nigga pressed press pussy nuthin instead worrying worry dat bitch fucking fuck u get chu sum money,-0.9325
-0,negative,nigga fucking fuck bitch svsu rj b waiting wait car minutes minute,-0.8074
+0,negative,niggas nigga pressed press pussy nuthin instead worrying worry dat bitch fucking fuck u get chu sum money,-0.9359
+0,negative,nigga fucking fuck bitch svsu rj b waiting wait car minutes minute,-0.8347
 0,negative,like honestly embarrassed embarrass around someone look trash,0.2023
 0,negative,every time mom calls call bitch something lol,-0.25
 0,negative,anything ever said say offended offend problem not problem little bitch,-0.6951
@@ -1447,8 +1447,8 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,likes like dem mexican hoes hoe day suck dollas,0.34
 0,negative,lmao amp aero sound young af talking talk bout hoes hoe n weed n shit brah got get ta listen shit,-0.5106
 0,negative,goes go ape shit ass as like nigggga tf doin hust saved save yo life pushed push ass as wall calmed calm,0.2023
-0,negative,love bad bitches bitch fucking fuck hobby yeah fours four like fucking fuck doggy,-0.8834
-0,negative,hate drinking everyone fucking fuck boring fuck guys guy fun pussies pussy,-0.8658
+0,negative,love bad bitches bitch fucking fuck hobby yeah fours four like fucking fuck doggy,-0.8915
+0,negative,hate drinking everyone fucking fuck boring fuck guys guy fun pussies pussy,-0.8901
 0,negative,refuse raise child bitch ass as country,-0.8591
 0,negative,snakes snake slithered slither coil hoes hoe loyal,0.4767
 0,negative,get bitch go gt gt,-0.1531
@@ -1457,7 +1457,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,fucken stand little cunts cunt write damn essay feel something facebook gross,-0.9068
 0,negative,bruh ready get four wheeler bitch fast asf,-0.3182
 0,negative,girlfriend got get ta accept fact hoes hoe gone go face boyfriend better well let hoes hoe know wassup,0.765
-0,negative,mom im not dramatic immature fucking fuck mental problems problem youre bitch cunt,-0.9423
+0,negative,mom im not dramatic immature fucking fuck mental problems problem youre bitch cunt,-0.9473
 0,negative,unloyal girls girl turn good guys guy assholes asshole amp amp unloyal guys guy turn good women woman big time bitches bitch,-0.7717
 0,negative,ex bitches bitch need realize,-0.8271
 0,negative,bullying laws law pussies pussy,-0.5994
@@ -1476,7 +1476,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,kill whitey,-0.6908
 0,negative,niggas nigga puttin bitches bitch even fucked fuck yet pedestal scratch hit list b never hittin,-0.9584
 0,negative,bruh bitch possessed possess thot demon,-0.5859
-0,negative,fucking fuck guaranteed pussy trying try get pussy end pussy,-0.5423
+0,negative,fucking fuck guaranteed pussy trying try get pussy end pussy,-0.5849
 0,negative,throwback bitches bitch amp drinking mikes mike bc sucked suck,-0.9274
 0,negative,got get flappy bird holy shit,-0.5574
 0,negative,bitch ugly fuck fuck tranny get alligator face,-0.9337
@@ -1548,7 +1548,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,ainn bitch,-0.5859
 0,negative,minnesota full white trash,0.0
 0,negative,majority hoes hoe gram instafrontin,0.0
-0,negative,carter needs need shut fuck fucking fuck bitch ass as always trying try start shit,-0.9578
+0,negative,carter needs need shut fuck fucking fuck bitch ass as always trying try start shit,-0.9609
 0,negative,see bruno bitch ass as twitter wtf bruno sees see drake voice,-0.9022
 0,negative,twitter even lmao hoe wack af,0.5994
 0,negative,like bitch aint even attractive smh,-0.4106
@@ -1632,7 +1632,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,go take summer binging alll fly bitches bitch bless atl turnup thank,-0.5267
 0,negative,stressing stress someone realize got get hoes hoe,-0.6486
 0,negative,wussup bitch,-0.5859
-0,negative,yeah texans texan much better well fucking fuck retard,-0.1779
+0,negative,yeah texans texan much better well fucking fuck retard,-0.3119
 0,negative,went go smart car bitch smart lips lip,0.1531
 0,negative,find funny asf people try tell live life like bitch stay shadows shadow thank lol,0.7096
 0,negative,son bitch moment finally get bed bladder decides time piss,-0.7579
@@ -1651,7 +1651,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,goes go babe bitch love hate need fuck everything,-0.7783
 0,negative,work something adults adult money not borrow money broke bitch,-0.3544
 0,negative,ones one really like get got get one really like lucky bitch,0.5575
-0,negative,never smoke weed willy invited invite hick toby keith fucking fuck hate mongoloid,-0.765
+0,negative,never smoke weed willy invited invite hick toby keith fucking fuck hate mongoloid,-0.8004
 0,negative,still wishin old hoes hoe best,0.6369
 0,negative,conversation hoes hoe falling fall easy,0.3182
 0,negative,love female cops cop b sum hoes hoe fuck da jakes,0.1779
@@ -1662,7 +1662,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,say time fag queer context suppose people looking look get offended offend,-0.743
 0,negative,ever gon na slice bitch kevin hart,-0.5859
 0,negative,coon meat made make ill even type racist much,-0.7783
-0,negative,need workout plan third bitch fucking fuck miracle,-0.5423
+0,negative,need workout plan third bitch fucking fuck miracle,-0.5446
 0,negative,love fuck niggas nigga hoes hoe,-0.1779
 0,negative,iont got get not type bad bitches bitch thing like ayeee throw ass as sphere,0.0505
 0,negative,freaky bitch eat dick playing play madden,-0.7506
@@ -1678,7 +1678,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,u got get twin bed yo bitch ass as better well not invite yo crib u better well sleeping sleep futon boy,0.066
 0,negative,bitch shot music video,-0.5859
 0,negative,bitch come home wit attitude bitch go yo ass as bacc work ah sum fucc,-0.9022
-0,negative,pet guinea pig die fucking fuck blows blow,-0.8126
+0,negative,pet guinea pig die fucking fuck blows blow,-0.8268
 0,negative,nigga even feel bitch pic without girl u fuckin getting get mad smh,-0.8519
 0,negative,bitches bitch brag crazy like cute like nigga bragging abusive,-0.8074
 0,negative,unbelievable americans american refused refuse kill okies means mean americans american weak willed will trash,-0.8807
@@ -1690,7 +1690,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,still e fag pass pas heidi,-0.4767
 0,negative,hoes hoe tbh highest high keys key,0.0
 0,negative,know hoes hoe right,0.0
-0,negative,shown show tiny kitten dumb fucking fuck cunt,-0.875
+0,negative,shown show tiny kitten dumb fucking fuck cunt,-0.8903
 0,negative,dinner dates date yo man bitch pow,-0.5859
 0,negative,nigga safe hoe,0.4404
 0,negative,twitter hoes hoe different bitches bitch want text dm day hoe trying try fuck something,-0.8979
@@ -1779,8 +1779,8 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,scrappy always reunion hella hoes hoe real nigga lmao,0.5994
 0,negative,everybody gettin sick feel like supa man dis bitch,-0.6808
 0,negative,really nuttin cut bitch,-0.7537
-0,negative,neither fucking fuck cat pussy,0.431
-0,negative,stop fucking fuck calling call legends legend trash cuz top artists artist generation take legends legend,-0.5994
+0,negative,neither fucking fuck cat pussy,0.4708
+0,negative,stop fucking fuck calling call legends legend trash cuz top artists artist generation take legends legend,-0.6361
 0,negative,tym lyt dis blunt n holla hoes hoe,0.0
 0,negative,ima shmurda dance pussy hoe,0.0
 0,negative,haha bitch ass as gucci,-0.6486
@@ -1819,7 +1819,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,news eyelid still spasming putting put mascara today bitch wtf,-0.8225
 0,negative,sounds sound like bout smack hoe,0.3612
 0,negative,hope realize retarded retard,-0.6369
-0,negative,boyfriend smart ass as bitch watch wear pants pant fucking fuck unzip k,-0.8442
+0,negative,boyfriend smart ass as bitch watch wear pants pant fucking fuck unzip k,-0.8553
 0,negative,man bitches bitch love beyonce punch line,-0.5423
 0,negative,vin scully called call camel jockey liesaboutvinscully,0.0
 0,negative,turn bitch real quick,-0.5859
@@ -1834,7 +1834,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,jenna faggot,-0.6597
 0,negative,theory say ratchet pussy juicy j proven,0.0
 0,negative,awnser phone pussy,0.0
-0,negative,cant stand people get fucking fuck amped especially whiny bitches bitch even get scared scar,-0.9397
+0,negative,cant stand people get fucking fuck amped especially whiny bitches bitch even get scared scar,-0.9426
 0,negative,bitch ask dont hit dont talk bitch want hit ignore respond hours hour later,-0.884
 0,negative,asshats cair called call islamophobe would say guilty fuck pass pas bacon bitch tcot,-0.8779
 0,negative,gon na hold tongue could get another team anymore fuckin retarded retard,-0.7964
@@ -1851,9 +1851,9 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,niggers nigger,-0.6486
 0,negative,byron leftwich fucks fuck hard throws throw kills kill bitches bitch,-0.9747
 0,negative,lowkey bitch one ride lowkey,-0.5859
-0,negative,yeah checked connection fucking fuck wifi check lil bitch nigga,-0.7269
+0,negative,yeah checked connection fucking fuck wifi check lil bitch nigga,-0.7501
 0,negative,inb unfunny nigger kill,-0.875
-0,negative,people fucking fuck retarded retard lol,-0.8316
+0,negative,people fucking fuck retarded retard lol,-0.8636
 0,negative,bitches bitch know wan na play basketball look sexy bro,-0.4404
 0,negative,kick cunt,-0.4939
 0,negative,bitch yeah want bitch,-0.7269
@@ -1875,7 +1875,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,fuck basic bitch,-0.8074
 0,negative,got get ta find know cali got get hoes hoe,0.0
 0,negative,picture makes make look like serious fag justsayin lol,0.2263
-0,negative,ignorant cement headed head hillbilly said say taxing tax cant fuckin read fucking fuck knob gobbling gobble douchebag,-0.8625
+0,negative,ignorant cement headed head hillbilly said say taxing tax cant fuckin read fucking fuck knob gobbling gobble douchebag,-0.8718
 0,negative,pic standing stand bitch looks look like voltorb,-0.3182
 0,negative,right spam eating eat pussy might well eat ass as,-0.5994
 0,negative,ppl uk go dumb hard curse like shitting shit cunt like dam cunts cunt shit,-0.9735
@@ -1886,7 +1886,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,faggot like side state,-0.4404
 0,negative,god damn chinks chink,-0.1531
 0,negative,yep messier dangerous environmentally unfriendly retarded retard new spouts spout,-0.8885
-0,negative,one day fucking fuck school god nansemond fucking fuck retarded retard,-0.9186
+0,negative,one day fucking fuck school god nansemond fucking fuck retarded retard,-0.9308
 0,negative,loyal pussy best pussy cus cu u know,0.8074
 0,negative,raaa bitch raaa,-0.5859
 0,negative,things thing go way total bitch,-0.5859
@@ -1928,7 +1928,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,theses thesis hoes hoe phony,0.0
 0,negative,tell hating hat ass as niggah shut fuck,-0.8834
 0,negative,dream th grade class except current self remember thinking think crazy become hoe moron,-0.5574
-0,negative,grandma used use say stop whiny little bitch eat fucking fuck gluten,-0.8484
+0,negative,grandma used use say stop whiny little bitch eat fucking fuck gluten,-0.8591
 0,negative,cried cry like bitch first breakup never loved love lol,-0.9418
 0,negative,yeah played yeah got get wanted want jokes joke daddy bitch,0.6705
 0,negative,tupac could fuck bitch world niggas nigga crying cry pic took take bitches bitch,-0.9738
@@ -1949,7 +1949,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,making make today bitch,-0.5859
 0,negative,tell nick cannon bout invite wiz wild n hit wit fucked fuck bitch diss dis haha,-0.8442
 0,negative,fuck niggah add gt gt gt,0.2023
-0,negative,gave give bakers baker took take pay cuts cut killed kill twinkie tell fucking fuck truth,-0.9442
+0,negative,gave give bakers baker took take pay cuts cut killed kill twinkie tell fucking fuck truth,-0.9443
 0,negative,got get name mouth got get bitch dick,-0.7964
 0,negative,like trailer trash chick would name cat,0.3612
 0,negative,lil pussy stomach pouch thingy wear tight clothes shit unattractive,-0.7579
@@ -2065,7 +2065,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,aye lot niggas nigga fuck bad bitch unless get drunk smh preach,-0.9509
 0,negative,text bitches bitch make wish come true,-0.4939
 0,negative,little scrawny white boys boy play ghetto rap music walk around,0.34
-0,negative,love airing air everyone loved love kill la kill like fucking fuck trash everyone loved love hates hate,0.5267
+0,negative,love airing air everyone loved love kill la kill like fucking fuck trash everyone loved love hates hate,0.4779
 0,negative,lmao u really call hoe lol yeah hoe,0.8467
 0,negative,abed gon na retire florida get bad bitches bitch nursing home,-0.9042
 0,negative,yuh bitch ass as ull get smacked smack quick,-0.8074
@@ -2120,7 +2120,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,many fuckin fags fag even get shouldnt allowed allow wallet whilst influence haha,-0.194
 0,negative,lol mane shut dat bitch shit youn fucc wit,-0.6808
 0,negative,figured figure hoes hoe wan na play games game fuck em leave em,-0.3182
-0,negative,must part cat family cuz fucking fuck pussy,-0.5423
+0,negative,must part cat family cuz fucking fuck pussy,-0.5849
 0,negative,dont fuck wit youuuuuuuu lil stupid ass as bitch,-0.8338
 0,negative,boozer trash,0.0
 0,negative,mum told guy one direction puffin dutchy nd like least cunt isny mad smackhead,0.233
@@ -2209,7 +2209,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,wow swear gon na cunt punch,0.1027
 0,negative,eating eat cuz women woman cook u got get ta get rid hoe,0.0
 0,negative,got get every hoe see weak nigga,-0.4404
-0,negative,got get hold koala take selfies kangaroos kangaroo saw bunch bad ass as birds bird prey pet fucking fuck emu today wtf,-0.5106
+0,negative,got get hold koala take selfies kangaroos kangaroo saw bunch bad ass as birds bird prey pet fucking fuck emu today wtf,-0.5563
 0,negative,nah girl gon able make tight since russ rus loss job back like damn bitch really,-0.7717
 0,negative,bum ass as hoe,-0.5423
 0,negative,bitches bitch drive range rovers rover,-0.8271
@@ -2226,7 +2226,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,sometime wish colored color,0.4019
 0,negative,name ollie bitch,-0.5859
 0,negative,almost beat bitch,-0.5456
-0,negative,insecure much put insults insult one tweet fucking fuck dumbass dude wreck faggot,-0.9729
+0,negative,insecure much put insults insult one tweet fucking fuck dumbass dude wreck faggot,-0.9746
 0,negative,joan rivers river said say gay michelle tranny perhaps death accident see clinton ron brown vin,-0.7906
 0,negative,love haters hater biggest big fans fan field dem bitches bitch stands stand,-0.802
 0,negative,sucka hoe sucka hoe im succsess,0.0
@@ -2238,7 +2238,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,cut hoes hoe u amp stop talkin owe new hoes hoe fym,-0.5106
 0,negative,people getting get called call types type bitches bitch music lol know ridiculous,-0.8126
 0,negative,spear chucker hell,-0.6808
-0,negative,love subs sub cause mom starts start fucking fuck bitch crank system simple solutions solution,-0.0258
+0,negative,love subs sub cause mom starts start fucking fuck bitch crank system simple solutions solution,-0.1708
 0,negative,yeah internet def taught bitch twerk talkin bout voting,-0.3818
 0,negative,say pussy hairy wana see,0.0
 0,negative,bitches bitch wan na nigga get couch go fine one,-0.7845
@@ -2249,7 +2249,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,naw u keep fake get yo lame ass as somwhere wigga hell get somwhere,-0.9325
 0,negative,bob schieffer holiday proud smitten good white guy hicks hick damned damn everything everything,0.5267
 0,negative,bitch ass as nigga hating hat black women woman uncle tom bitch punk,-0.9371
-0,negative,nice base running run fucking fuck ponderous,-0.1779
+0,negative,nice base running run fucking fuck ponderous,-0.2484
 0,negative,call pussy,0.0
 0,negative,sang nazi beaner,0.0
 0,negative,load bitch kool aid,-0.5859
@@ -2280,7 +2280,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,internet make think bitches bitch actually not,-0.8271
 0,negative,new year eve bitches bitch like nye drunkinlove beyonce,-0.7351
 0,negative,loyal pussy forever bein better well bitch thats passed pass around,0.5106
-0,negative,still blaming blame bush fucking fuck retard,-0.91
+0,negative,still blaming blame bush fucking fuck retard,-0.9197
 0,negative,hate ghetto bitches bitch passion,-0.8555
 0,negative,whats wrong bitch,-0.7845
 0,negative,k niggah u evem shmoke,0.0
@@ -2302,7 +2302,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,shit pretty bitch momma anyone get drama,-0.6369
 0,negative,bae win get pussy tonight shiiiiiit,0.5859
 0,negative,tryna like steez bro got get dem hoes hoe rir,0.3612
-0,negative,ight nigga haha fucking fuck queer clear schedule,0.2732
+0,negative,ight nigga haha fucking fuck queer clear schedule,0.2665
 0,negative,get beauty scar tough guy eating eat pussy scarface,0.5106
 0,negative,like k gold rillos pussy,0.3612
 0,negative,take bitch ever really,-0.5859
@@ -2330,7 +2330,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,every cartoon alway saving save hoes hoe lmao lmao damn captain saveahoe,0.8519
 0,negative,cant bitch make mad nigga already,0.6908
 0,negative,smoke would not smokin hoes hoe less gettin fucked fuck,-0.8104
-0,negative,asks get done do fucking fuck hoe,-0.5423
+0,negative,asks get done do fucking fuck hoe,-0.5849
 0,negative,think change doctor advocate cunt goes go mental hmm,-0.4939
 0,negative,fuk wit real nicca,0.0
 0,negative,commence carpet bombing iraq soldiers soldier video executed execute jihadis tunis,0.0
@@ -2375,7 +2375,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,shot another monkey lmaooooooooooo,0.0
 0,negative,voice behind mustard beat hoe,0.0
 0,negative,lets let hangout monday nigs,0.0
-0,negative,look like stop talking talk fucking fuck bitches bitch,-0.8979
+0,negative,look like stop talking talk fucking fuck bitches bitch,-0.9142
 0,negative,knocked knock bitch soul body lol,-0.25
 0,negative,dutch people live outside newyorkcity white trash,0.0
 0,negative,dollar every time someone called call maggie make rain hoes hoe,0.0
@@ -2419,7 +2419,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,intimidated intimidate pussies pussy see sweet honest woman seriously could make stalking stalk thing much easier easy,0.765
 0,negative,ppl talk bad ghetto hood kid growing grow nigga funnnnnnn,-0.4215
 0,negative,dam got get ta hope niggah dont snitch,0.4404
-0,negative,fucking fuck hate bitch much wan na smack face tongue kiss,-0.8481
+0,negative,fucking fuck hate bitch much wan na smack face tongue kiss,-0.876
 0,negative,nigga watching watch love hiphop instead playoffs playoff gay denna bitch,0.1027
 0,negative,fight den hoe,-0.3818
 0,negative,tarzan dis hoe,0.0
@@ -2431,7 +2431,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,trust hoes hoe lol na bigger big us u think bc guys guy talk girls girl first understand,0.7269
 0,negative,hoe year round yeezy taught,0.0
 0,negative,bae lem me see phone dont hella hoes hoe one sec,0.0
-0,negative,fucking fuck bitches bitch ya using use pus pu hook u,-0.9231
+0,negative,fucking fuck bitches bitch ya using use pus pu hook u,-0.9341
 0,negative,lord please get ghetto ass as hospital,-0.296
 0,negative,birds bird wedlock rate white fathers father running run away,0.0
 0,negative,ayo twat boy got get ta new phone give yo jack,-0.6597
@@ -2460,7 +2460,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,still see niggers nigger see white hoes hoe,-0.6486
 0,negative,bitch touch,-0.5859
 0,negative,wet amp warm pussy,0.2263
-0,negative,smh hoes hoe like fucking fuck actual loyal girls girl smh,-0.3612
+0,negative,smh hoes hoe like fucking fuck actual loyal girls girl smh,-0.3673
 0,negative,older old black guy factory know none coons coon work tipped right,0.0
 0,negative,sucks suck bitch cant even pretend dance,-0.8361
 0,negative,thottie yous thottie thottie yous thottie yes bitch womp womp lord save parched parch hoes hoe,0.2732
@@ -2489,7 +2489,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,st show proof sold sell pussy wait,0.0
 0,negative,oh shut faggot get disease overused overuse twitter,-0.6597
 0,negative,take bitch recieve head mom,-0.5859
-0,negative,wow fucking fuck lame laughing laugh ya hey fat ass as u want twinkie u said say made make sense go eat something,0.2732
+0,negative,wow fucking fuck lame laughing laugh ya hey fat ass as u want twinkie u said say made make sense go eat something,0.2004
 0,negative,quote tweet funniest pic ya camera roll bitch started start,-0.0516
 0,negative,not weird faggot,0.6167
 0,negative,okay either super dyke weird car sex fetish,0.6249
@@ -2500,7 +2500,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,hoes hoe lie,0.0
 0,negative,nonexistent hoes hoe,0.0
 0,negative,like wassup bitch huh nothing thought hoe lt,-0.3182
-0,negative,look fucking fuck retarded retard alls pants pant ankles ankle,-0.891
+0,negative,look fucking fuck retarded retard alls pants pant ankles ankle,-0.9088
 0,negative,getting get blocked block faggot,-0.8555
 0,negative,gettin bitches bitch never hard settled settle cause start got get corny girl thurl,-0.8128
 0,negative,ow amp gone go big lanky twat,-0.6597
@@ -2584,7 +2584,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,know bitch boy named name luke,-0.5859
 0,negative,dare insult pearl harbor vet dumb cunt,-0.8689
 0,negative,bitches bitch better well stop madness,-0.8316
-0,negative,girls girl fucking fuck retarded retard back started start cramping cramp man double,-0.9081
+0,negative,girls girl fucking fuck retarded retard back started start cramping cramp man double,-0.9222
 0,negative,time chasing chase someone like turning turn wine coolers cooler look like bitch really think lol,0.507
 0,negative,im ice cube u call grinch got get ur list aint giving give u shit bitch,-0.4427
 0,negative,brony folk far wide throwing throw bitch fits fit equestriagirls must one looks look interesting interest,0.5267
@@ -2601,7 +2601,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,big long lost lose brother swear know without wetback,-0.6369
 0,negative,faggot,-0.6597
 0,negative,tell side bitch family business none business,-0.5859
-0,negative,liked like one bitch always shit causing cause fucking fuck drama,-0.765
+0,negative,liked like one bitch always shit causing cause fucking fuck drama,-0.7841
 0,negative,damn bad thing side hoes hoe get mad hit day,-0.8555
 0,negative,oh sneaky son bitch,-0.6908
 0,negative,smurf real cat bitch,-0.5859
@@ -2629,7 +2629,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,tf baby goal bitch u gone go gone go baby goals goal,-0.5859
 0,negative,word ray rice marry gone go divorces divorce bitch way outta box handcuffs handcuff,-0.5859
 0,negative,pussy bomb call dynamite,-0.3612
-0,negative,soon left iraq towel heads head think fucking fuck barge take worked work hard set pisses piss,-0.8402
+0,negative,soon left iraq towel heads head think fucking fuck barge take worked work hard set pisses piss,-0.8516
 0,negative,awkward moment changing change gym penis head slips slip slit boxers boxer,-0.1531
 0,negative,pull ex make bitch mad,-0.7906
 0,negative,take like tamu bitches bitch jumped beating sc good,-0.743
@@ -2650,7 +2650,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,give hipster bitch yellow stick suckin dick hood shit othot,-0.8934
 0,negative,see picture smoking man god disgraceful nig sir embarrassment,-0.2023
 0,negative,fuck hoes hoe amp fuck niggas nigga fuckin hoes hoe,-0.8555
-0,negative,everybody fucking fuck everybody bitch everybody shit life,-0.8979
+0,negative,everybody fucking fuck everybody bitch everybody shit life,-0.9092
 0,negative,rich let bitch get mad like niggas nigga think,-0.5106
 0,negative,lucky bitch,-0.25
 0,negative,type bad bitches bitch thing like,-0.8658
@@ -2703,8 +2703,8 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,call sweet baboo ho,0.4588
 0,negative,kierstens bitch squid hands hand squid hands hand,0.3818
 0,negative,deep pussy tongue dial need halp,0.0
-0,negative,hoes hoe aint fucking fuck,0.431
-0,negative,would love not hit jig fucking fuck life,0.1779
+0,negative,hoes hoe aint fucking fuck,0.4708
+0,negative,would love not hit jig fucking fuck life,0.1045
 0,negative,worse bad jury duty confirmation get serving serve general public retarded retard,-0.9287
 0,negative,tryna steal ya car eat hell outcha wife pussy htgawm,-0.8316
 0,negative,mean rude little sister kick ass as applies little snooty bitches bitch k thanks,-0.8884
@@ -2734,13 +2734,13 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,biology lab hoe,0.0
 0,negative,guys guy say wear leggings legging got get ass as amp see pussies pussy walking walk around muscle shirts shirt without mus mu,-0.5423
 0,negative,totally correct anthony livin round dem colored color folk day bringin da hood dem propery value,0.34
-0,negative,fucking fuck ignorant u talk lot shit someone wan na fight mama raised raise u bitch huh,-0.9393
+0,negative,fucking fuck ignorant u talk lot shit someone wan na fight mama raised raise u bitch huh,-0.9448
 0,negative,nigga telling tell business hoe lol,0.4215
 0,negative,swear huge bitches bitch think baddest,-0.765
 0,negative,pussy better well crazy bitch,-0.296
 0,negative,early bullshit fuck yall hoes hoe lmfao,-0.5859
 0,negative,hoe pics pic looking look got get ass as pics pic got get son hoes hoe crazy,-0.7096
-0,negative,fucking fuck little bitch landed land car really thought kill,-0.9183
+0,negative,fucking fuck little bitch landed land car really thought kill,-0.9266
 0,negative,ohh yaa wants want brooke pinkie toe bang coffee table twat lol,-0.3182
 0,negative,rt nigga bitch never date female another niggah name lol wtf,-0.7003
 0,negative,hits hit blunt bruh tells tell go text hoes hoe one hoes hoe keep texting,0.0
@@ -2759,7 +2759,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,vibing bitches bitch feeling feel good slowjams neveradullmoment withthesebitches,-0.6486
 0,negative,whheeet bitch lying lie,-0.802
 0,negative,saying say friends friend everyone know baby well bitch life,0.5574
-0,negative,fucking fuck tired tire ending end night rips rip much hitting hit bitch,-0.8807
+0,negative,fucking fuck tired tire ending end night rips rip much hitting hit bitch,-0.895
 0,negative,suppose man bitch,-0.5859
 0,negative,hoe not housewife,0.0
 0,negative,keep thing kid people soon realize lying lie faggot,-0.8316
@@ -2796,7 +2796,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,pussy coochie since,0.0
 0,negative,hoes hoe got get several better well,0.6124
 0,negative,room bitch tell somethin dirty,-0.7717
-0,negative,sex positions position u call fucking fuck soul outta bitch,-0.8074
+0,negative,sex positions position u call fucking fuck soul outta bitch,-0.8221
 0,negative,besides ur imposter idol looks look nothing like word god described saviour israel revelations revelation envious bitch,-0.8327
 0,negative,fxck outta hoe,0.0
 0,negative,looks look oomf pretending pretend bitches bitch really work nah,-0.8548
@@ -2823,7 +2823,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,tryna sumbody cinnamon apple cant trust bitch wit pussy taste like cinnamon apple,0.4348
 0,negative,experience charlie married woman loves love hot phone sex strangers stranger get,0.836
 0,negative,senator anchor baby go back came come natural born canadian,0.3612
-0,negative,really wan na brake fucking fuck head look like bitch hit,-0.7003
+0,negative,really wan na brake fucking fuck head look like bitch hit,-0.7264
 0,negative,got get amp b progress report amp still touchin bands band bitch get like,0.128
 0,negative,day judgement everybody gon na looking look big jumbotron watching watch fuck majjinn buu bitch,-0.8074
 0,negative,blow shit get fatter white trash love holiday,0.5106
@@ -2844,7 +2844,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,welcome movement anyone gets get even minor publicity queer fed jew well according accord internet,0.6249
 0,negative,hoes hoe slick,0.0
 0,negative,arent going go stick one garbage recycling recycle im not going go give single fuck im putting put trash,-0.5423
-0,negative,thank one day making make vitamins vitamin size fucking fuck twinkie love giving give heimlich maneuver every mo,0.7783
+0,negative,thank one day making make vitamins vitamin size fucking fuck twinkie love giving give heimlich maneuver every mo,0.7764
 0,negative,volnation bitch,-0.5859
 0,negative,good percy harvin peyton team sound retarded retard lmao,-0.0772
 0,negative,wonder twerking dies dy hoes hoe became become world star famous lives life like wherearetheynow,0.3612
@@ -2875,7 +2875,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,gon na go ape shit uchida,-0.5574
 0,negative,see bitches bitch ruin sports sport kobe play damn football either looking look mentioned mention stupidity ya momma hoe,-0.9403
 0,negative,tryna smoke dope bitch lol,-0.25
-0,negative,always singles single hoes hoe claim aint talking talk fucking fuck nobody mysteriously pop pregnant,-0.5423
+0,negative,always singles single hoes hoe claim aint talking talk fucking fuck nobody mysteriously pop pregnant,-0.5849
 0,negative,bitch not coming come,-0.5859
 0,negative,see straight pussy iphone,0.2263
 0,negative,fuck pussy,-0.5423
@@ -2929,7 +2929,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,might not reaction everyone said say brand trash yet sh,0.0
 0,negative,haha yolo ya hit hoe,0.6249
 0,negative,roll got get eat barter system nig,0.0
-0,negative,nobody cares care fucking fuck fag damn bring bitches bitch water even though youre thirsty fuck fucknigga,-0.936
+0,negative,nobody cares care fucking fuck fag damn bring bitches bitch water even though youre thirsty fuck fucknigga,-0.9471
 0,negative,niggah know wassup,0.0
 0,negative,puto bitch spanish,-0.5859
 0,negative,bitch got get amp trinna change,-0.5859
@@ -2941,7 +2941,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,yeswedid start building windturbines fuckin big kill whole flock birds bird one go gt,-0.5574
 0,negative,riding rid ooo bitch nasty,-0.8126
 0,negative,really hate skyler like loaning loan money not even like bitch wtf,-0.0499
-0,negative,coons coon hoes hoe love putting put spaghetti salad fucking fuck plate smh,-0.1531
+0,negative,coons coon hoes hoe love putting put spaghetti salad fucking fuck plate smh,-0.2862
 0,negative,kobe calls call dwight howard bitch ass as nigga,-0.8074
 0,negative,pussy not fartin u not fuccin right cuh,0.0
 0,negative,bae turns turn hoe,0.0
@@ -2969,7 +2969,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,lightskins spanish girls girl acting act like breaking break niggas nigga hearts heart necessity stop cruel bitch,-0.8658
 0,negative,got get cousin thats rollin got get bitch tha hoovers hoover,-0.5859
 0,negative,bitch forehead hairline lied lie amp approved approve shit,-0.802
-0,negative,every time try quit smoking dumb bitch always got get ta fucking fuck annoying annoy try patience lmfao,-0.9136
+0,negative,every time try quit smoking dumb bitch always got get ta fucking fuck annoying annoy try patience lmfao,-0.9265
 0,negative,lil nigga wait till see nigga ready chicago boy pussy burbs wait,0.3612
 0,negative,jog higher high stupid bitch ass as hoe saab,-0.8934
 0,negative,fags fag,-0.4767
@@ -2998,7 +2998,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,wish never met bitch bro god,0.7828
 0,negative,hate hoes hoe tweet hoes hoe okay aint hypocritical,-0.0823
 0,negative,star tweets tweet hopes hope magically get pussy good luck keep,0.891
-0,negative,lol love ppl think ima fucking fuck look away like pussy catch staring star lmao look away hoe,0.872
+0,negative,lol love ppl think ima fucking fuck look away like pussy catch staring star lmao look away hoe,0.8627
 0,negative,dyke amp looks look like,0.3612
 0,negative,seat drunk bitch rko,-0.7351
 0,negative,remember would spank everyone meme wars war faggots faggot,-0.9524
@@ -3017,7 +3017,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,love salad anyway fuck hoes hoe eat salad,0.1779
 0,negative,bitch add,-0.5859
 0,negative,wonder much pussy justin bieber gets get,0.0
-0,negative,almost everyone met paris absolute trash support republican government hope fucking fuck die,-0.4215
+0,negative,almost everyone met paris absolute trash support republican government hope fucking fuck die,-0.5222
 0,negative,boyfriend girlfriend suppose laugh hoes hoe together guy never hoes hoe laughing laugh girl,0.678
 0,negative,nerdy fat bitch yes sir fucked fuck basedgod lil b,-0.8807
 0,negative,thinkin errbody wan na give pussy,0.0
@@ -3078,7 +3078,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,remember bro show people,0.0
 0,negative,care none bitches bitch,0.8562
 0,negative,hate dat hoe,-0.5719
-0,negative,need savin need get fucking fuck high get pussy,-0.5423
+0,negative,need savin need get fucking fuck high get pussy,-0.5849
 0,negative,bitches bitch lobby plenty bitches bitch lobby,-0.9451
 0,negative,saving save hoes hoe,0.4939
 0,negative,wife dat bitch many niggas nigga fucked fuck clique many niggas nigga actin rich dese boppin hoes hoe dick maserati,-0.9451
@@ -3087,7 +3087,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,plot twist hoes hoe loyal,0.4767
 0,negative,beef bitch,-0.5859
 0,negative,wrongfilmquotes everytime come kitchen kitchen goddamn refrigerator eatin pussy,-0.4767
-0,negative,taxi driver fucking fuck retarded retard know get grapevine lewisville,-0.891
+0,negative,taxi driver fucking fuck retarded retard know get grapevine lewisville,-0.9088
 0,negative,microwave work broken ghetto ass as put hamburger patty toaster warm,-0.6908
 0,negative,october babe hoe anymore,0.0
 0,negative,outchea bitch,-0.5859
@@ -3098,7 +3098,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,niggas nigga drop outta high school amp get job mcdonalds talkin bout grind lmao okay grind oreo mcflurr,0.3182
 0,negative,baddest bitch win queen fuck mexicans mexican buy yo house,-0.5423
 0,negative,espn jason whitlock pti ass as kissing kiss mister charlie justify bullshit eagles eagle jackson,-0.2023
-0,negative,porn android iphone ipad sex xxx smalltits small tits tit ghetto whore fucking fuck not stepdad,-0.8658
+0,negative,porn android iphone ipad sex xxx smalltits small tits tit ghetto whore fucking fuck not stepdad,-0.8748
 0,negative,hoes hoe getting get loose move cities city everybody finds find hoe lol,0.128
 0,negative,colts colt nation put yall money bitch chuassup,-0.5859
 0,negative,see gt fine line gt killing kill faggots faggot change source creation stupid people overbreeding gt period gt,-0.93
@@ -3137,11 +3137,11 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,nigga caping cap bitch like seen see nudes nude already want tf,-0.25
 0,negative,yes ghetto bitch,-0.2732
 0,negative,boy dats dat cold tyga dwn bad cuffin dat hoe st place,-0.5423
-0,negative,alot fucking fuck girl fuck around pussy since migos came come,-0.7906
+0,negative,alot fucking fuck girl fuck around pussy since migos came come,-0.8218
 0,negative,public side hoe,0.0
 0,negative,prefer jameis winston not speak tv damn coon,0.3089
 0,negative,got get hoes hoe starin walk thru,0.0
-0,negative,not yall thou yalll fucking fuck glad bag trash,-0.128
+0,negative,not yall thou yalll fucking fuck glad bag trash,-0.1317
 0,negative,iphone bitch,-0.5859
 0,negative,mom younger young brothers brother gon na come disrespect mom amp call bitch amp cousins cousin gon na tell mom stfu wth,-0.875
 0,negative,drove redneck crazy,-0.34
@@ -3154,7 +3154,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,michaelbrown supporter says say whites white evil albino black babies baby seriously tcot,-0.6124
 0,negative,hoe tonight ol hating hat ass as,-0.7783
 0,negative,wife bitches bitch,-0.8271
-0,negative,swear bitches bitch looney like pic amp fucking fuck bitch,-0.9287
+0,negative,swear bitches bitch looney like pic amp fucking fuck bitch,-0.9324
 0,negative,like bitch wit ass as u shit,-0.8555
 0,negative,not safe pussy boy looooool,-0.3412
 0,negative,hidey hidey hoe,0.0
@@ -3164,7 +3164,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,lol one old bitches bitch,-0.7096
 0,negative,water challenges challenge retarded retard fuck,-0.875
 0,negative,thing much pussy,0.0
-0,negative,faggot ass as nigga crys cry people talk kicks kick certainly makes make lot fucking fuck shoe comments comment man smfh,-0.9201
+0,negative,faggot ass as nigga crys cry people talk kicks kick certainly makes make lot fucking fuck shoe comments comment man smfh,-0.9245
 0,negative,niggas nigga pressed press pussy aint nothing,-0.34
 0,negative,pink hat guy cody caleb either way emotional bitch bb,-0.4939
 0,negative,bitch flirts flirt bae,-0.4767
@@ -3186,7 +3186,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,freak hoes hoe got get several,-0.4404
 0,negative,break ion want pussy nomore really hate huh,-0.5709
 0,negative,tf look like delivery bitch ahaha,-0.3182
-0,negative,parents parent let drink underage fucking fuck retarded retard,-0.891
+0,negative,parents parent let drink underage fucking fuck retarded retard,-0.9088
 0,negative,pacer short pussy,0.0
 0,negative,forte trucked dude hoe ass as lol,-0.1779
 0,negative,fluffy retard homeboy calling call baby rattlesnake friend kissing kiss baby rattlers rattler kill man,0.1531
@@ -3202,7 +3202,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,really wan na go biking downtown current lack sunglasses sunglass not cool not happy prepare bitch face,0.3157
 0,negative,hobbies hobby consist sleeping sleep amp subtweeting random people school even know judgemental bitch,-0.5859
 0,negative,lovee bitch istg,-0.5859
-0,negative,customers customer fucking fuck crazy bitch said say god smite dumbass locked lock account,-0.9042
+0,negative,customers customer fucking fuck crazy bitch said say god smite dumbass locked lock account,-0.9191
 0,negative,peace bitch,-0.0772
 0,negative,eat pussy look like,0.3612
 0,negative,fresh japanese model toys toy succulant pussy cums cum,0.3182
@@ -3234,7 +3234,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,respect money respect real niccas,0.7351
 0,negative,fuck not bitch real fucking fuck address get bitch yo blood tell address,-0.2158
 0,negative,hoes hoe look good,0.4404
-0,negative,dem hoes hoe nigga fucking fuck retired retire widows widow new race fuck black woman,-0.7906
+0,negative,dem hoes hoe nigga fucking fuck retired retire widows widow new race fuck black woman,-0.8218
 0,negative,nigger tattoo show horrible,-0.8316
 0,negative,hate yankees yankee though right feel like really good hating hat,-0.3788
 0,negative,im hardly hoe anymore lol,0.3687
@@ -3246,7 +3246,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,hoes hoe talk shit hoes hoe leave,-0.5859
 0,negative,bitch brought toothbrush okay,-0.4404
 0,negative,boyfriend girlfriend suppose laugh hoes hoe together guy never hoes hoe laughing laugh,0.678
-0,negative,bitch fucking fuck fuck brandeis go connor fuck connor fuck brandeis kidding kid h town helotes flexes flex bitch,-0.969
+0,negative,bitch fucking fuck fuck brandeis go connor fuck connor fuck brandeis kidding kid h town helotes flexes flex bitch,-0.9731
 0,negative,feel like bad bitch wear rhinestoned pocket jeans jean,-0.7003
 0,negative,take yo bitch see yo bitch,-0.8225
 0,negative,born last night know hoes hoe right,0.0
@@ -3278,7 +3278,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,get gwop bitch remember,-0.5859
 0,negative,despise clich aint original bitch copy deleted delete,-0.0747
 0,negative,tell bae ho tre testicoli means mean love eyes eye italian,0.6369
-0,negative,ugly fucking fuck nigger baby thought gorilla first,-0.9022
+0,negative,ugly fucking fuck nigger baby thought gorilla first,-0.9131
 0,negative,ugly hoes hoe loudest loud u need duck amp hide frfr,-0.6124
 0,negative,good football player still acts act like nig,0.6597
 0,negative,glad ari know text get contact cause calling call bitch day worried,-0.4588
@@ -3296,7 +3296,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,coming come bitches bitch,-0.8271
 0,negative,flipthesenate corrupt administration ever chicagopolitics wh amp harry reid bitch,-0.5859
 0,negative,need jump shop fritag beers beer hate looking look like odd need get fags fag tae going go look like junkie,-0.6249
-0,negative,like velcro headed head moon cricket say fucking fuck jungle bunny,-0.25
+0,negative,like velcro headed head moon cricket say fucking fuck jungle bunny,-0.3167
 0,negative,got get bitch ass as coworkers stay late every day last week complain mfs mf stay late send emails email left,-0.8689
 0,negative,start crying cry bitch,-0.875
 0,negative,donny hoe since,0.0
@@ -3341,16 +3341,16 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,boyfriends boyfriend brothers brother drop pick bitches bitch fast food job long promised promise free meal,-0.4019
 0,negative,gon na bring though unless turning turn welt already like bubble wit pussy got get ta pop gone go,0.3612
 0,negative,bitch please go windsor either way come bring also,-0.3612
-0,negative,maybe cuz putting put trust bitch not lady maybe fucking fuck song,-0.6124
+0,negative,maybe cuz putting put trust bitch not lady maybe fucking fuck song,-0.6478
 0,negative,fail realize ion want friends friend bitches bitch switch quiccer change channel,-0.6808
 0,negative,hate yal delete twitter somethin better well bitch ass as niggas nigga,-0.8555
 0,negative,baby moanin got get zone nn want bitch next pussy like ecstasy,0.4404
 0,negative,send bitch asses ass fishing us u beat san antonio season wan na play nigguhs straightup,-0.7096
 0,negative,left tho twitpic selfie bad bitch,-0.8074
-0,negative,every time say like someone boxer rapper etc everyone bitches bitch fucking fuck heads head changes change opinion relax,-0.7783
+0,negative,every time say like someone boxer rapper etc everyone bitches bitch fucking fuck heads head changes change opinion relax,-0.796
 0,negative,friday c burg mall gettin whipped whip like bitches bitch fuck,-0.8658
 0,negative,gets get mad mexicans mexican go mexico like wtf support team bitch,-0.765
-0,negative,not cause hoes hoe go jail cause fucking fuck hoes hoe bloody n making make call head honcho,-0.7506
+0,negative,not cause hoes hoe go jail cause fucking fuck hoes hoe bloody n making make call head honcho,-0.7713
 0,negative,know like cause bitch likely,-0.3182
 0,negative,yeah annoying annoy need something bitch fuckfriendzones play shit fuck heart make wish,-0.8807
 0,negative,niccas broke always n limelight,-0.4215
@@ -3400,7 +3400,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,like song french got get black bitches bitch mad main bitch strawberry lololol,-0.9217
 0,negative,favorite time da day happy hour drinkbreak bad bitches bitch come ok hoes hoe home make,-0.5106
 0,negative,bitch come pull titty merrie,-0.5859
-0,negative,jesus would love muzzie torturers torturer fucking fuck animal savages savage,-0.926
+0,negative,jesus would love muzzie torturers torturer fucking fuck animal savages savage,-0.9332
 0,negative,bitch scared scar let yo daddy dawg yo mama heart ya daddy bitch ass as,-0.9325
 0,negative,bunch penis timeline literally u want dm u pussy lol,0.4767
 0,negative,cebros corporate hoes hoe,0.0
@@ -3409,7 +3409,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,dis bitch wan na smoke weed,-0.5859
 0,negative,big g day freeboosie nicca lol,0.4215
 0,negative,still think snap chat faggots faggot high schoolers,-0.8625
-0,negative,math fucking fuck useless algebra not gon help pull bitches bitch fuck,-0.9626
+0,negative,math fucking fuck useless algebra not gon help pull bitches bitch fuck,-0.9667
 0,negative,report bitch need read twitter rules rule guidelines guideline facebook cunt,-0.7906
 0,negative,would white man even go nigger hell hole detroit worked work town good niggers nigger,-0.9062
 0,negative,get people bitch unfollow never talked talk,-0.5859
@@ -3473,7 +3473,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,niccas use like always tryn pull finesse duh nicca need mine,0.3612
 0,negative,bitch im not bout get damn flu shot ion care free,0.3309
 0,negative,shit euros euro would call typical american fat fuck goes go eat fast food time dumb bitch,-0.9349
-0,negative,yall fucking fuck trash boyy gladbagflow,-0.5423
+0,negative,yall fucking fuck trash boyy gladbagflow,-0.5849
 0,negative,like literally done do texting someone text back slide bitch left win money,0.3612
 0,negative,funny read retard liberal tweets tweet anand u delete salwar tweet anyway say hi digvijaysingh,-0.128
 0,negative,always bitch,-0.5859
@@ -3488,7 +3488,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,bitch feed asked ask buy burger,-0.5859
 0,negative,settling settle pussies pussy,0.0
 0,negative,tyler shit faggot go listen real music,-0.8402
-0,negative,fucking fuck verse trip bitch stop assuming assume shit,-0.9201
+0,negative,fucking fuck verse trip bitch stop assuming assume shit,-0.9245
 0,negative,happily taken take tho amp cheating cheat none hoes hoe,-0.4588
 0,negative,hate bitches bitch laughing laugh teeth shit scary fuck witness like cover mouth hoe,-0.9246
 0,negative,people go church hollywood ca white trash filth,0.0
@@ -3573,7 +3573,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,hoe stfu,0.0
 0,negative,see tweets tweet bitch lmfao von kick curb call n curse ass as,-0.8074
 0,negative,state got get best pussy,0.6369
-0,negative,bitch fucking fuck told sit seat yo dumbass come saying say sitting sit bitch vote sos so,-0.9403
+0,negative,bitch fucking fuck told sit seat yo dumbass come saying say sitting sit bitch vote sos so,-0.9432
 0,negative,somebody tell pussy niggas nigga got get em got get em,-0.34
 0,negative,got get ass as bitch got get hips hip bitch got get thighs thigh bitch fine bitch bad way live,-0.9698
 0,negative,basic bitches bitch unite around parts part,-0.8271
@@ -3611,7 +3611,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,internet aint get transfered transfer yet pussy,0.0
 0,negative,cunt welcome twitter,-0.0516
 0,negative,learn type ya hillbilly,0.0
-0,negative,awe cut make mad dam bad shoulda going go fucking fuck speed limit bitch,-0.9442
+0,negative,awe cut make mad dam bad shoulda going go fucking fuck speed limit bitch,-0.9468
 0,negative,niggas nigga groupies groupie act worse bad hoes hoe,-0.8402
 0,negative,worry bitch worried bout real,-0.836
 0,negative,honesty think internet full retards retard,-0.0516
@@ -3656,7 +3656,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,lose sweet lose hide lmfao viri tryna smoke hoe self boy,0.1027
 0,negative,saw homeless man sleeping sleep box surrounded surround bubble wrap must new alarm system even funny bitch,-0.5106
 0,negative,smellin good bitches bitch wan na hug,-0.4019
-0,negative,fucking fuck white people bitch wut,-0.8074
+0,negative,fucking fuck white people bitch wut,-0.8221
 0,negative,cheating cheat hoes hoe gets get old everyone want reach point mature enough stay faithful amp,-0.128
 0,negative,bitches bitch set hoppin like bitch get life u get beat lmao,-0.7269
 0,negative,pussy mind bow wow,0.5859
@@ -3674,7 +3674,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,pussy taste like pineapples pineapple,0.3612
 0,negative,like hov said say ghetto b lol,0.6486
 0,negative,eating eat amp mom gon say damn calm tf bitch calm,-0.4404
-0,negative,big fucking fuck deal cry baby niggers nigger,-0.8979
+0,negative,big fucking fuck deal cry baby niggers nigger,-0.9092
 0,negative,bitch told control told go find,-0.5859
 0,negative,amanda bitch ass as eva cheat fizz fine ass as ion geddit theres there nigga looks look thought yall knew dat,-0.9186
 0,negative,shoot nigger bitch knees knee,-0.8885
@@ -3801,8 +3801,8 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,dese bitches bitch n shot nigga,-0.8271
 0,negative,lawd jesus lets let pray hoes hoe,0.3182
 0,negative,dont see connection legitimizing legitimize queer lifestyle increase std sexual deviancy yo,0.3182
-0,negative,hahaha fucking fuck weak used use abuse pussy lmfao,-0.5423
-0,negative,omg plz stop calling call idiot kindergarden fucking fuck faggot,-0.9201
+0,negative,hahaha fucking fuck weak used use abuse pussy lmfao,-0.6214
+0,negative,omg plz stop calling call idiot kindergarden fucking fuck faggot,-0.9283
 0,negative,faggot bring jacket work keep ya desk b c office cold,-0.6597
 0,negative,hate ol fat disgusting disgust walmart working work ass as bitch,-0.9601
 0,negative,love stressful niggah,0.2263
@@ -3816,7 +3816,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,went go lunches lunch bitch ass as,-0.8074
 0,negative,thought fucked fuck birth defect made make nips nip heart shaped shape lmao,-0.7506
 0,negative,nigga still pull tho fuck bitch u stfu,-0.8074
-0,negative,fucking fuck faggot,-0.836
+0,negative,fucking fuck faggot,-0.8581
 0,negative,bitches bitch trash pussy always want unprotected sex,-0.872
 0,negative,porn android iphone ipad sex xxx korean korean girlfriend pussy,0.0
 0,negative,bet valerie jarret hands hand humanitarian crisis vote commie bitch,-0.6908
@@ -3824,7 +3824,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,r u african ur african bitch,-0.5859
 0,negative,bitch feet foot years year slavery,-0.8625
 0,negative,guess makes make us u blacks black double niggers nigger huh,-0.6486
-0,negative,bitch better well lie bodies body cant stomach ill fucking fuck die,-0.7067
+0,negative,bitch better well lie bodies body cant stomach ill fucking fuck die,-0.7535
 0,negative,know dyke asks men golf clubs club,0.0
 0,negative,fuck yo bitch u happy like damn boosie fucked fuck bitch lmao,-0.9118
 0,negative,got get u bitch,-0.5859
@@ -3864,7 +3864,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,freshman year remember like yesterday lowkey plotting plot baddest bitch clown ass as nigguh swooped swoop dat lol,-0.4588
 0,negative,cant turn hoe housewife,0.0
 0,negative,fresh jail got get chopper bitches bitch like vick number like bk whopper,-0.2732
-0,negative,fucking fuck bitches bitch throwing throw thots,-0.9042
+0,negative,fucking fuck bitches bitch throwing throw thots,-0.9191
 0,negative,happy birthday bitch,-0.0258
 0,negative,nigga look size plus get hit ass as look like fighting fight life sneak dat bitch run,-0.872
 0,negative,lmfao u sloth trinidad james relaxer lookin ass as bitch hate niggers nigger imma start talking talk white boys boy,-0.8807
@@ -3906,7 +3906,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,eaten eat six packs pack hello kitty fruit snacks snack today bitch adult,-0.5859
 0,negative,amp niggas nigga still runnin round sayin yall eat pussy must suckin dick,-0.6908
 0,negative,blue flag brite nd ya bitch blowing like play bagpipes bagpipe,0.0258
-0,negative,whatever fucking fuck pussy,-0.5423
+0,negative,whatever fucking fuck pussy,-0.5849
 0,negative,niggas nigga fuck yah good eat ya pussy go home bitch like shit happen,-0.836
 0,negative,really bitch trying try make difference someone else intentionally make point make feel like shit,-0.7346
 0,negative,cunt needs need hands hand cut,-0.2732
@@ -3933,7 +3933,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,llamf cumin wit better well bars bar already bitch boiz yall dun fukd da way,0.0516
 0,negative,see dumbass nigger,-0.836
 0,negative,ray j perfect example happens give lame nigga pussy,0.2263
-0,negative,work gone go going go nothin fucking fuck bitches bitch trap,-0.926
+0,negative,work gone go going go nothin fucking fuck bitches bitch trap,-0.9364
 0,negative,hey bitches bitch ic tonight dial digits digit,-0.8271
 0,negative,fuck stfu shit bout u stop little bitch get round cuz u avoiding avoid question u fucking fuck scarry,-0.9633
 0,negative,damn bitch dumb,-0.8689
@@ -3952,7 +3952,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,bestfriend got get jumped like dudes dude n ur upset u pay fines fine gtfo bitch,-0.5423
 0,negative,lmao bitch saw camera amp looked look big screen n realized realize,0.0258
 0,negative,bitch talk yo shit say papers paper bitch trinna get straight fag bitch foe dat scary ass as hoe,-0.9794
-0,negative,really committed commit fucking fuck richest bitches bitch,-0.6031
+0,negative,really committed commit fucking fuck richest bitches bitch,-0.6378
 0,negative,laughing laugh inside thinking think yo bitch ass as get fuck boy,-0.6124
 0,negative,dogs dog man remember ok girl text phone bs b squads squad ready deep thenna bitch ready go,0.34
 0,negative,next generation raised raise bunch mindless pussies pussy discipline,-0.4404
@@ -3965,7 +3965,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,amber rose rise rock bald head bald pussy motherfucker,-0.6808
 0,negative,additional charge pussy listen personal problems problem,-0.6597
 0,negative,teaching teach pretend son b pussy son would lace jock strap,-0.1027
-0,negative,hold fucking fuck bitch,-0.8074
+0,negative,hold fucking fuck bitch,-0.8347
 0,negative,marca got get many hoes hoe confused confuse,-0.4939
 0,negative,think rice fags fag mcdonald,-0.4767
 0,negative,always patty never pussy,0.0
@@ -3978,7 +3978,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,lol nig,0.4215
 0,negative,say ratchet pussy juicy j bands band make dance,0.0
 0,negative,love loyal one person fuck hoes hoe,0.5859
-0,negative,fucking fuck hate ghetto girls girl bruh,-0.802
+0,negative,fucking fuck hate ghetto girls girl bruh,-0.8304
 0,negative,worse bad bitch looks look better well main bitch bad right lol,-0.8979
 0,negative,hoes hoe everything,0.0
 0,negative,holy fuck white bitch baby daddy straight goes go uses us condoms condom anyways bitch maybe stay outta clinic,-0.8807
@@ -3999,7 +3999,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,wanted want see like trash sometimes lol,0.6808
 0,negative,niggas nigga impregnating impregnate basic bitches bitch job know drive car money house n wonder miserable,-0.9231
 0,negative,guy flirts flirt ya girl niggas nigga niggas nigga flirts flirt back hoe,-0.34
-0,negative,fucking fuck bitch rachel needs need die please,-0.872
+0,negative,fucking fuck bitch rachel needs need die please,-0.8878
 0,negative,bitches bitch cheat got get ta acknowledge gon na happens hurt less,-0.9337
 0,negative,sound like bitch,-0.3182
 0,negative,oh grades grade say wise u stfu get twitter u box simple ass as pussy boy,-0.1027
@@ -4041,7 +4041,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,procrastination really bitch,-0.624
 0,negative,good morning sunshine dirty bitch,-0.1531
 0,negative,wuw not wun uv ur hoes hoe dnt send mi pics pic,0.0
-0,negative,fucking fuck first night make hoe,-0.5423
+0,negative,fucking fuck first night make hoe,-0.5849
 0,negative,ass as slapping slap one greatest great things thing haha slapped slap girl ass as got get mad aint get pussy week,0.5106
 0,negative,bitches bitch love body party time take da dick party canceled cancel false advertising ass as bitches bitch,-0.9393
 0,negative,heyy hoe,0.0
@@ -4053,7 +4053,7 @@ class,labels,cleaned_tweet,sentiment_score
 0,negative,trying try hard resist urge smack bitch,-0.6369
 0,negative,crazy things thing pussy know make sure u know,-0.0258
 0,negative,truuuu bitches bitch respect shit talkin lol,-0.7506
-0,negative,little fucking fuck faggot spits spit food swear god id tear fucking fuck arms arm,-0.8651
+0,negative,little fucking fuck faggot spits spit food swear god id tear fucking fuck arms arm,-0.8896
 0,negative,free hoe x,0.5106
 0,negative,preach ugly girls girl way go man nobody got get time pretty hoes hoe,-0.0258
 0,negative,u ask every bitch gay bi,-0.5859
