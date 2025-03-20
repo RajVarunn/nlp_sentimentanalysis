@@ -1,0 +1,19 @@
+# Machine Learning and NLP Libraries
+scikit-learn
+nltk
+
+# Visualization Libraries
+matplotlib
+wordcloud
+IPython
+plotly
+
+# Data Manipulation and Processing Libraries
+pandas
+numpy
+tabulate
+scipy
+
+# Additional Libraries
+pympler
+imbalanced-learn
